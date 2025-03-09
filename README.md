@@ -14,13 +14,14 @@ This is the backend for an Attendance Management System built with Node.js, Expr
 - **Database**: MongoDB
 - **Authentication**: JWT
 - **File Upload**: Multer
+- **Deployment**: Vercel(https://attendence-app-one.vercel.app/)
 
 ## Setup Instructions
 
 1. Clone the repository.
 2. Install dependencies: `npm install`.
 3. Set up MongoDB and update the `.env` file.
-4. Run the application: `npm start`.
+4. Run the application: `npm run dev`.
 
 ## API Endpoints
 
